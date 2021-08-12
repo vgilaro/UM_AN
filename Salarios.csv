@@ -69,7 +69,7 @@ referencia;Nombre_Jugador;Equipo ;Posicion;Edad;salario;Rango_edad
 68;Joe Harris;BKN;escolta;29;16071429;3
 69;James Johnson;NOP;ala;33;16047100;4
 70;Clint Capela;ATL;pivot;26;16000000;2
-71;Dennis Schröder;LAL;base;27;16000000;3
+71;Dennis Schrsder;LAL;base;27;16000000;3
 72;Cody Zeller;CHA;pivot;27;15415730;3
 73;Danny Green;PHI;escolta;33;15365854;4
 74;Jonas Valanciunas;MEM;pivot;28;15000000;3
@@ -387,7 +387,7 @@ referencia;Nombre_Jugador;Equipo ;Posicion;Edad;salario;Rango_edad
 386;Naz Reid;MIN;pivot;21;1517981;1
 387;Robert Woodard II;SAC;escolta;21;1500000;1
 388;Paul Watson;TOR;escolta;25;1445697;2
-389;Jae’Sean Tate;HOU;alero;24;1445697;2
+389;Jae√ïSean Tate;HOU;alero;24;1445697;2
 390;Kelan Martin;IND;alero;25;1445697;2
 391;DaQuan Jeffries;SAS;escolta;23;1445697;2
 392;Taj Gibson;NYK;ala;35;1442968;5
